@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="bitcoin.trading.strategies.html"}
 if(x=="2"){xxx="how.to.soar.foreign.exchange.buying.and.selling.html"}
 if(x=="3"){xxx="starting.binary.options.brokerage.html"}
-if(x=="4"){xxx="the.minimum.capital.required.to.start.trading.html"}a_to_ve[i].href="http://bitcoinminingforex.blogspot.com/2018/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="the.minimum.capital.required.to.start.trading.html"}a_to_ve[i].href="https://bitcoinminingforex.blogspot.com/2018/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
